@@ -1,6 +1,6 @@
 Title: Rhaffer's Wish List
 
-dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124,384158423#notes: The infamous xur roll, probably not a 5/5, but its popular for a reason.
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124,384158423#notes:The infamous xur roll, probably not a 5/5, but its popular for a reason.
 
 
 
